@@ -1,16 +1,46 @@
-## Hi there 👋
+### Hello!
 
-<!--
-**AlekseyLapunov/AlekseyLapunov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a master's student of the Siberian Federal University, School of Space and Information Technology.
 
-Here are some ideas to get you started:
+## 🔎 Interested in
+- Backend development
+- Graphics API (e.g. OpenGL)
+- Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Worked with
+- C/C++ 
+- Rust 
+- Qt and QML 
+- Docker 
+- Linux 
+- Bash
+- SQL
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/578px-Qt_logo_2016.svg.png?20160710145509" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
+</p>
+
+## 🔭 Currently learning
+- Modern C++
+- Multithreading and asyncronous features in C++
+- Networking in C++
+- Graphics API
+- Golang basics
+
+<img src="https://komarev.com/ghpvc/?username=alekseylapunov&label=%F0%9F%91%81%EF%B8%8F&color=4b5f7c&style=flat" alt="alekseylapunov" align="bottom" />
+
+## ✉️ How to reach me via email
+[lapunoff.alex\@yandex.ru](mailto:lapunoff.alex@yandex.ru?subject=Theme)
+or
+[ranmoreno2\@gmail.com](mailto:ranmoreno2@gmail.com?subject=Theme)
+
+## ➤ Telegram
+[@academy_of_taste](https://t.me/academy_of_taste)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alekseylapunov&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="alekseylapunov" /></p>
