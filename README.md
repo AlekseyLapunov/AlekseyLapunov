@@ -32,6 +32,10 @@ I am a master's student of the Siberian Federal University, School of Space and 
 - Networking in C++
 - Graphics API
 - Golang basics
+<p>
+<img src="https://media.dev.to/cdn-cgi/image/width=1600,height=900,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fifqnhg6alyfzj9dko1t8.png" width="70" height="40"/>
+<img src="https://go.dev/images/go-logo-white.svg" width="40" height="40"/>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=alekseylapunov&label=%F0%9F%91%81%EF%B8%8F&color=4b5f7c&style=flat" alt="alekseylapunov" align="bottom" />
 
