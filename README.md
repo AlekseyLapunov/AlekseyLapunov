@@ -13,7 +13,7 @@ I am a master's student of the Siberian Federal University, School of Space and 
 - Rust 
 - Docker 
 - SQL
-- Linux (+ bash scripting
+- Linux (+ bash scripting)
 
 <p>
 <img src="https://go.dev/images/go-logo-white.svg" width="40" height="40"/>
