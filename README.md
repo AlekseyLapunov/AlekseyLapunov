@@ -3,17 +3,20 @@
 I am a master's student of the Siberian Federal University, School of Space and Information Technology.
 
 ## 🔎 Interested in
+- DevOps
 - Backend development
-- Graphics API (e.g. OpenGL)
 - Networking
+- Graphics API (e.g. OpenGL)
 
 ## 💻 Worked with
+- GitLab CI
+- Docker
+- PostgreSQL
+- Linux
+- Bash scripting
 - Golang
 - C/C++ (also Qt & QML) 
-- Rust 
-- Docker 
-- SQL
-- Linux (+ bash scripting)
+- Rust
 
 <p>
 <img src="https://go.dev/images/go-logo-white.svg" width="40" height="40"/>
@@ -38,6 +41,6 @@ I am a master's student of the Siberian Federal University, School of Space and 
 [ranmoreno2\@gmail.com](mailto:ranmoreno2@gmail.com?subject=Theme)
 
 ## ➤ Telegram
-[@academy_of_taste](https://t.me/academy_of_taste)
+[@kiwi_birds](https://t.me/kiwi_birds)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alekseylapunov&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="alekseylapunov" /></p>
