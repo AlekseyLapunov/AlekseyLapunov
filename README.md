@@ -1,6 +1,6 @@
 ### Hello!
 
-I am a master's student of the Siberian Federal University, School of Space and Information Technology.
+I am Aleksey 🥝
 
 ## 🔎 Interested in
 - DevOps
