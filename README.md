@@ -9,13 +9,14 @@ I am Aleksey 🥝
 - Graphics API (e.g. OpenGL)
 
 ## 💻 Worked with
-- GitLab CI
 - Docker
+- Ansible
+- nginx
+- GitLab CI
 - PostgreSQL
-- Linux
 - Bash scripting
 - Golang
-- C/C++ (also Qt & QML) 
+- C++ (also Qt & QML) 
 - Rust
 
 <img src="https://komarev.com/ghpvc/?username=alekseylapunov&label=%F0%9F%91%81%EF%B8%8F&color=4b5f7c&style=flat" alt="alekseylapunov" align="bottom" />
