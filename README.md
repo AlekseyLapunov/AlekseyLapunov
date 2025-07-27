@@ -18,20 +18,6 @@ I am Aleksey 🥝
 - C/C++ (also Qt & QML) 
 - Rust
 
-<p>
-<img src="https://go.dev/images/go-logo-white.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/578px-Qt_logo_2016.svg.png?20160710145509" width="35" height="35"/>
-</p>
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
-</p>
-
 <img src="https://komarev.com/ghpvc/?username=alekseylapunov&label=%F0%9F%91%81%EF%B8%8F&color=4b5f7c&style=flat" alt="alekseylapunov" align="bottom" />
 
 ## ✉️ How to reach me via email
