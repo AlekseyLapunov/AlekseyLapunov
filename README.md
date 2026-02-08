@@ -28,5 +28,3 @@ I am Aleksey 🥝
 
 ## ➤ Telegram
 [@kiwi_birds](https://t.me/kiwi_birds)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alekseylapunov&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="alekseylapunov" /></p>
