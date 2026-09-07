@@ -16,7 +16,7 @@
 
 Core:
 
-[![OS](https://skillicons.dev/icons?i=linux,debian,redhat,git)](https://skillicons.dev)
+[![Core OS and utils](https://skillicons.dev/icons?i=debian,redhat,git,docker,kubernetes)](https://skillicons.dev)
 
 Scripting and Coding:
 
@@ -24,7 +24,7 @@ Scripting and Coding:
 
 Automatization and IaC:
 
-[![Automatization](https://skillicons.dev/icons?i=ansible,terraform)](https://skillicons.dev)
+[![Automatization](https://skillicons.dev/icons?i=ansible,terraform,saltstack)](https://skillicons.dev)
 
 CI/CD and Workflow:
 
